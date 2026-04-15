@@ -1,6 +1,6 @@
 <div align="center">
 
-# Evaluating RemoteSensing Image Captions Beyond Metric Biases
+# Evaluating Remote Sensing Image Captions Beyond Metric Biases
 
 
 [Ziyun Chen (陈子赟)](https://multimodality.group/author/%E9%99%88%E5%AD%90%E8%B5%9F/) 
@@ -12,7 +12,7 @@
 
 [Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-[Yuye Ma (马玉叶)]
+Yuye Ma (马玉叶)
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Wei Zhou (周玮)](https://weizhou-geek.github.io/) 
 <img src="assets/Cardiff_University_logo.png" alt="Logo" width="15">
@@ -24,7 +24,7 @@
 - **2026/4/15**: We publicly released the code of our paper at this repository.
 
 ## Introduction
-Welcome to the official repository of our paper "Evaluating RemoteSensing Image Captions Beyond Metric Biases"!
+Welcome to the official repository of our paper "Evaluating Remote Sensing Image Captions Beyond Metric Biases"!
 
 ![](assets/ReconScore_RemoteDescriber.png)
 
