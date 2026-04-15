@@ -52,8 +52,11 @@ pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https
 ```shell
 pip install git+https://github.com/huggingface/diffusers
 ```
-
-4. Install the packages in `requirements.txt` via `pip`:
+4. To accerate the inference of Qwen3-VL, install the latest version of Flash Attention 2:
+```shell
+pip install -U flash-attn --no-build-isolation
+```
+5. Install the packages in `requirements.txt` via `pip`:
 ```shell
 pip install -r requirements.txt
 ```
