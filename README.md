@@ -1,6 +1,6 @@
 <div align="center">
 
-# Evaluating Remote Sensing Image Captions Beyond Metric Biases
+# Evaluating Remote Sensing Image Captions Beyond Metric Biases(https://arxiv.org/abs/2604.22855)
 
 
 [Ziyun Chen (陈子赟)](https://multimodality.group/author/%E9%99%88%E5%AD%90%E8%B5%9F/) 
@@ -128,3 +128,17 @@ python RemoteDescriber.py \
 
 ## Contact
 Please Contact hhu-czy@hhu.edu.cn
+
+## Cite
+If you find this work useful, please cite our paper as:
+```bibtex
+@misc{chen2026evaluatingremotesensingimage,
+      title={Evaluating Remote Sensing Image Captions Beyond Metric Biases}, 
+      author={Ziyun Chen and Fan Liu and Liang Yao and Chuanyi Zhang and Yuye Ma and Wei Zhou},
+      year={2026},
+      eprint={2604.22855},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.22855}, 
+}
+```
